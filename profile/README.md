@@ -3,4 +3,4 @@ We are an organisation focused on developing tools and documentation for Scooby-
 
 ## Useful Links
 - [Scooby Doo Speedrunning Discord Server](https://discord.com/invite/4S27tcf)
-- [Documentation](https://github.com/Costume-Quest-Modding/SpookySwamp-Documentation/wiki)
+- [Documentation](https://github.com/Scooby-Doo-and-the-Spooky-Swamp-Modding/SpookySwamp-Documentation/wiki)
